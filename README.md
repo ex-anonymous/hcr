@@ -1,4 +1,10 @@
 # Hill Climb Racing hacks
+# IMPORTANT NOTE
+⚠️⚠️ The creater of these files is NOT liable for any damanges caused to any persons devices if installed incorrectly. Make sure to back up your original `settings.dat` file if you do not know what you are doing. By installing these files, you are doing so at your own risk. You have been warned. ⚠️⚠️
+
+# Getting started
+To get started, read the [installation guide](https://github.com/ex-anonymous/hcr/wiki).  
+To get information on the different "levels", keep reading below!
 
 ## Basic
 The [Basic "Pack"](basic/settings.dat) includes:  
